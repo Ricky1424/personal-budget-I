@@ -1,4 +1,4 @@
-# personal-budget-I
+# personal_budget_I
  Portfolio project for Codecademy. Project is completed at the end of the Back-End Development section.
  
  <!-- PROJECT LOGO -->
